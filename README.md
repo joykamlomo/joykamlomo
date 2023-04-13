@@ -1,4 +1,20 @@
-### Hi there 👋
+### Greetings! 👋
+
+I'm Joy Kamlomo, a motivated software engineer with experience in web and application development.
+
+👩‍💻 I'm currently sharpening my skills in building scalable web applications using Node.js and React, and I'm also exploring DevOps practices to improve software development and delivery.
+
+🌱 As a driven learner, I'm always seeking new challenges to improve my abilities as a software engineer.
+
+👯 I'm passionate about collaborating on exciting projects that challenge me and expand my knowledge in different areas of tech, from backend to frontend and DevOps.
+
+💬 If you have any questions about JavaScript, React, Node.js, MongoDB, Postgres or anything else tech-related, feel free to ask me.
+
+📫 You can reach me at kamlomo.js@gmail.com. Let's connect and discuss how we can work together to create amazing projects!
+
+Check out my Github profile for more information about my projects and contributions. 
+Thank you for taking the time to read my bio! 🚀
+
 
 <!--
 **joykamlomo/joykamlomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
