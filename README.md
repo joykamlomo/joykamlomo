@@ -12,7 +12,6 @@
 
 * 📫 You can reach me at kamlomo.js@gmail.com. Let's connect and discuss how we can work together to create amazing projects!
 
-Check out my Github profile for more information about my projects and contributions. 
 Thank you for taking the time to read my bio! 🚀
 
 
