@@ -2,13 +2,13 @@
 
 I'm Joy Kamlomo, a motivated software engineer with experience in web and application development.
 
-👩‍💻 I'm currently sharpening my skills in building scalable web applications using Node.js and React, and I'm also exploring DevOps practices to improve software development and delivery.
+👩‍💻 👩‍💻 I'm currently focused sharpening my skills in building scalable web applications using Node.js and React, as well as exploring DevOps practices to improve software development and delivery and improving my SQL skills for effective database management.
 
 🌱 As a driven learner, I'm always seeking new challenges to improve my abilities as a software engineer.
 
 👯 I'm passionate about collaborating on exciting projects that challenge me and expand my knowledge in different areas of tech, from backend to frontend and DevOps.
 
-💬 If you have any questions about JavaScript, React, Node.js, MongoDB, Postgres or anything else tech-related, feel free to ask me.
+💬 If you have any questions about JavaScript, React, Node.js, MongoDB, SQL, Postgres or anything else tech-related, feel free to ask me.
 
 📫 You can reach me at kamlomo.js@gmail.com. Let's connect and discuss how we can work together to create amazing projects!
 
