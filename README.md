@@ -1,5 +1,5 @@
 ## Greetings! I'm Joy Kamlomo 👋
------
+---
 ### A motivated software engineer with experience in web and application development.
 
 * 👩‍💻 👩‍💻 I'm currently focused sharpening my skills in building scalable web applications using Node.js and React, as well as exploring DevOps practices to improve software development and delivery and improving my SQL skills for effective database management.
