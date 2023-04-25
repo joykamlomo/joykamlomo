@@ -2,7 +2,7 @@
 ---
 #### A motivated software engineer with experience in web and application development.
 
-* 👩‍💻 👩‍💻 I'm currently focused with sharpening my skills in building scalable web applications using Node.js and React, as well as exploring DevOps practices to improve software development and delivery and improving my SQL skills for effective database management.
+* 👩‍💻 👩‍💻 I'm currently focused with sharpening my skills in building scalable web applications using **Node.js** and **React**, as well as exploring **DevOps** practices to improve software development and delivery and improving my **SQL** skills for effective database management.
 
 * 🌱 As a driven learner, I'm always seeking new challenges to improve my abilities as a software engineer.
 
