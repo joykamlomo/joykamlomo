@@ -8,7 +8,7 @@
 
 * 👯 I'm passionate about collaborating on exciting projects that challenge me and expand my knowledge in different areas of tech, from **backend to frontend and DevOps.**
 
-* 💬 If you have any questions about **JavaScript, React, Node.js, MongoDB, SQL, Postgres** or anything else tech-related, feel free to ask me.
+* 💬 If you have any questions about **.NET, JavaScript, React, Node.js, Databases** or anything else tech-related, feel free to ask me.
 
 * 📫 You can reach me at kamlomo.js@gmail.com. Let's connect and discuss how we can work together to create amazing projects!
 
